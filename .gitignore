@@ -1,0 +1,7 @@
+node_modules
+components/*
+npm-debug.log
+.DS_Store
+editor/dist
+notes.txt
+!components/Base
